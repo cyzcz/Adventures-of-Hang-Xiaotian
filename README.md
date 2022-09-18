@@ -12,13 +12,13 @@ java 1.8
 
 ![西工大晚霞](https://cyzcz-1306422927.cos.ap-nanjing.myqcloud.com/%E8%A5%BF%E5%B7%A5%E5%A4%A7%E6%99%9A%E9%9C%9E.png)
 
-![ARJ21](F:\大二上学习\文件夹\03 设计\UI设计\游戏地图—西工大\ARJ21.png)
+![ARJ21](https://cyzcz-1306422927.cos.ap-nanjing.myqcloud.com/ARJ21.png)
 
-![何尊](F:\大二上学习\文件夹\03 设计\UI设计\游戏地图—西工大\何尊.png)
+![何尊](https://cyzcz-1306422927.cos.ap-nanjing.myqcloud.com/%E4%BD%95%E5%B0%8A.png)
 
-![教东](F:\大二上学习\文件夹\03 设计\UI设计\游戏地图—西工大\教东.png)
+![教东](https://cyzcz-1306422927.cos.ap-nanjing.myqcloud.com/%E6%95%99%E4%B8%9C.png)
 
-![宇航员1](F:\大二上学习\软件开发\宇航员1.png)
+![宇航员1](https://cyzcz-1306422927.cos.ap-nanjing.myqcloud.com/%E5%AE%87%E8%88%AA%E5%91%981.png)
 
 ## 目录解析
 
